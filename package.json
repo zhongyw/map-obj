@@ -15,10 +15,10 @@
   "scripts": {
     "test": "xo && ava"
   },
+  "main": "dist/index",
   "files": [
-    "bin",
-    "lib",
-    "LICENSE"
+    "dest",
+    "lib"
   ],
   "keywords": [
     "map",
