@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "Map object keys and values into a new object",
   "license": "MIT",
-  "repository": "sindresorhus/map-obj",
+  "repository": "https://github.com/zhongyw/map-obj.git",
   "author": {
     "name": "Sindre Sorhus",
     "email": "sindresorhus@gmail.com",
